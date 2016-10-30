@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(34, 34, 34);
+}
+#gameheader{
+    padding-top: 30px;
+    color: #ffffff;
+    text-align: center;
+    font-size: 96px;
+    line-height: 115px;
+    white-space: nowrap;
+}
+#gamezone{
+    width: 535px;
+    height: 542px;
+    margin: 0 auto;
+    /*border: 1px solid;*/
+}
+#gamepercent{
+    width: 40px;
+    height: 20px;
+    line-height: 20px;
+    color: rgb(119, 119, 119);
+    /*background-color: red;*/
+    margin: 0 auto;
+    text-align: center;
+}
+#gamebar{
+
+}
+.inner{
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+    width: 117px;
+    height: 117px;
+    background-color: rgb(42,42,42);
+    border-radius: 13px;
+}
